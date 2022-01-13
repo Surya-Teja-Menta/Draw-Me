@@ -1,16 +1,27 @@
-# draw_me
+## Draw Me
 
-a baby teacher
+a baby teacher. Lets AI Teach...<br>
 
-## Getting Started
+#### A Sample AI Mobile Application to learn digits for babies.
 
-This project is a starting point for a Flutter application.
+>  “Artificial intelligence would be the ultimate version of Google. The ultimate search engine that would understand everything on the web. It would understand exactly what you wanted, and it would give you the right thing. We're nowhere near doing that now. However, we can get incrementally closer to that, and that is basically what we work on.” - Larry Page.
 
-A few resources to get you started if this is your first Flutter project:
+**In Future the AI Leads the Mankind**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+_**Getting Started**_
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### [MNIST Dataset](https://data.deepai.org/mnist.zip)<br/>
+   The Dataset for Hand Written Images. It is a Global Dataset
+
+_Metrics_<br>
+**Accuracy - 97%**
+**Loss - 0.48953**
+
+### Results
+
+<img src="outs/1.jpg" width="320" height="520">                <img src="outs/3.jpg" width="320" height="520"><br>
+<img src="outs/8.jpg" width="320" height="520">                <img src="outs/9.jpg" width="320" height="520"><br>
+ 
+
+Author    -   [Surya Teja Menta](mailto:mentasuryateja@gmail.com)<br>
+contacts  -   +91 8309584461
