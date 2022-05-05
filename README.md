@@ -9,6 +9,7 @@ a baby teacher. Lets AI Teach...<br>
 **In Future the AI Leads the Mankind**
 
 _**Getting Started**_
+---
 This is a Flutter DL application to classify handwritten images. and it is developed for kids.
 ### [MNIST Dataset](https://data.deepai.org/mnist.zip)<br/>
    The Dataset for Hand Written Images. It is a Global Dataset
